@@ -1,4 +1,4 @@
-# bedrock-unicode-characters
+# bedrock-unicode-symbols
 Minecraft:Bedrock Edition Unicode characters
 
 ## How to use
@@ -9,7 +9,7 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 
 ## List of all characters
 
-|               Name               |   Platform   | Character | Unicode |                     In game                    |
+|               Name               |   Platform   |  Symbols  | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             A Button             |    Xbox     |          |  U+E000 |            ![](./images/xbox-a.png)            |
 |             B Button             |    Xbox     |          |  U+E001 |            ![](./images/xbox-b.png)            |
